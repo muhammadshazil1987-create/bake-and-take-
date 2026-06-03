@@ -1,0 +1,6 @@
+{
+  "name": "Bakeandtake",
+  "description": "A premium, sophisticated digital storefront for Bakeandtake, Haripur's elite bakery—featuring high-end visuals, fully integrated client-side product CMS, and smart WhatsApp ordering flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
